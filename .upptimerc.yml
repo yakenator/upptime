@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Web Status"
-  introMessage: tㅓ버 상태 확인
+  introMessage: 서버 상태 확인
   navbar:
     - title: Status
       href: /
