@@ -2,7 +2,7 @@
   {
     "name": "rms-visitkorea",
     "url": "https://conlab.visitkorea.or.kr/conlab",
-    "icon": "https://icons.duckduckgo.com/ip3/conlab.visitkorea.or.kr.ico",
+    "icon": "https://favicons.githubusercontent.com/conlab.visitkorea.or.kr",
     "slug": "rms-visitkorea",
     "status": "up",
     "uptime": "100.00%",
@@ -20,19 +20,21 @@
   {
     "name": "rms-neoaria",
     "url": "https://rms.neoaria.io/conlab",
-    "icon": "https://icons.duckduckgo.com/ip3/rms.neoaria.io.ico",
+    "icon": "https://favicons.githubusercontent.com/rms.neoaria.io",
     "slug": "rms-neoaria",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1206,
-    "timeDay": 1206,
-    "timeWeek": 1206,
-    "timeMonth": 1206,
-    "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1137,
+    "timeDay": 1137,
+    "timeWeek": 1137,
+    "timeMonth": 1137,
+    "timeYear": 1137,
+    "dailyMinutesDown": {
+      "2023-01-05": 0
+    }
   }
 ]
