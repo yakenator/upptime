@@ -22,19 +22,19 @@
     "url": "https://rms.neoaria.io/conlab",
     "icon": "https://favicons.githubusercontent.com/rms.neoaria.io",
     "slug": "rms-neoaria",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1137,
-    "timeDay": 1137,
-    "timeWeek": 1137,
-    "timeMonth": 1137,
-    "timeYear": 1137,
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.01%",
+    "time": 1081,
+    "timeDay": 1081,
+    "timeWeek": 1081,
+    "timeMonth": 1081,
+    "timeYear": 1081,
     "dailyMinutesDown": {
-      "2023-01-05": 0
+      "2023-01-05": 11
     }
   }
 ]
