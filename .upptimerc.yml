@@ -15,7 +15,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "RMS :: 컨텐츠랩"
+  introTitle: "RMS :: 컨텐츠랩 "
   introMessage: RMS 시스템 모니터
   navbar:
     - title: Status
