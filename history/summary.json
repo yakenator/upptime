@@ -2,7 +2,7 @@
   {
     "name": "rms-visitkorea",
     "url": "https://conlab.visitkorea.or.kr/conlab",
-    "icon": "https://favicons.githubusercontent.com/conlab.visitkorea.or.kr",
+    "icon": "https://icons.duckduckgo.com/ip3/conlab.visitkorea.or.kr.ico",
     "slug": "rms-visitkorea",
     "status": "up",
     "uptime": "100.00%",
@@ -10,31 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5237,
-    "timeDay": 5237,
-    "timeWeek": 5237,
-    "timeMonth": 5237,
-    "timeYear": 5237,
+    "time": 4710,
+    "timeDay": 4371,
+    "timeWeek": 4710,
+    "timeMonth": 4710,
+    "timeYear": 4710,
     "dailyMinutesDown": {}
   },
   {
     "name": "rms-neoaria",
     "url": "https://rms.neoaria.io/conlab",
-    "icon": "https://favicons.githubusercontent.com/rms.neoaria.io",
+    "icon": "https://icons.duckduckgo.com/ip3/rms.neoaria.io.ico",
     "slug": "rms-neoaria",
     "status": "up",
-    "uptime": "99.01%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.01%",
-    "uptimeMonth": "99.01%",
-    "uptimeYear": "99.01%",
-    "time": 1081,
-    "timeDay": 1081,
-    "timeWeek": 1081,
-    "timeMonth": 1081,
-    "timeYear": 1081,
-    "dailyMinutesDown": {
-      "2023-01-05": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1042,
+    "timeDay": 1065,
+    "timeWeek": 1042,
+    "timeMonth": 1042,
+    "timeYear": 1042,
+    "dailyMinutesDown": {}
   }
 ]
