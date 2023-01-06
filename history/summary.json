@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4710,
-    "timeDay": 4371,
-    "timeWeek": 4710,
-    "timeMonth": 4710,
-    "timeYear": 4710,
+    "time": 4673,
+    "timeDay": 4335,
+    "timeWeek": 4673,
+    "timeMonth": 4673,
+    "timeYear": 4673,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://rms.neoaria.io/conlab",
     "icon": "https://icons.duckduckgo.com/ip3/rms.neoaria.io.ico",
     "slug": "rms-neoaria",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1042,
-    "timeDay": 1065,
-    "timeWeek": 1042,
-    "timeMonth": 1042,
-    "timeYear": 1042,
-    "dailyMinutesDown": {}
+    "time": 1008,
+    "timeDay": 955,
+    "timeWeek": 1008,
+    "timeMonth": 1008,
+    "timeYear": 1008,
+    "dailyMinutesDown": {
+      "2023-01-06": 0
+    }
   }
 ]
