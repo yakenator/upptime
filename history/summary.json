@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4673,
-    "timeDay": 4335,
-    "timeWeek": 4673,
-    "timeMonth": 4673,
-    "timeYear": 4673,
+    "time": 4213,
+    "timeDay": 3965,
+    "timeWeek": 4213,
+    "timeMonth": 4213,
+    "timeYear": 4213,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rms.neoaria.io.ico",
     "slug": "rms-neoaria",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
-    "time": 998,
-    "timeDay": 943,
-    "timeWeek": 998,
-    "timeMonth": 998,
-    "timeYear": 998,
-    "dailyMinutesDown": {
-      "2023-01-06": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 962,
+    "timeDay": 919,
+    "timeWeek": 962,
+    "timeMonth": 962,
+    "timeYear": 962,
+    "dailyMinutesDown": {}
   }
 ]
