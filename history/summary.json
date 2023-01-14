@@ -4,7 +4,7 @@
     "url": "https://conlab.visitkorea.or.kr/conlab",
     "icon": "https://icons.duckduckgo.com/ip3/conlab.visitkorea.or.kr.ico",
     "slug": "rms-visitkorea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 4404,
     "timeDay": 5118,
-    "timeWeek": 5119,
+    "timeWeek": 5053,
     "timeMonth": 4404,
     "timeYear": 4404,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-14": 0
+    }
   },
   {
     "name": "rms-neoaria",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 940,
     "timeDay": 1027,
-    "timeWeek": 866,
+    "timeWeek": 848,
     "timeMonth": 940,
     "timeYear": 940,
     "dailyMinutesDown": {}
