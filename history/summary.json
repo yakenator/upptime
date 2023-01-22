@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/conlab.visitkorea.or.kr.ico",
     "slug": "rms-visitkorea",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 4168,
-    "timeDay": 5366,
-    "timeWeek": 3048,
-    "timeMonth": 4168,
-    "timeYear": 4168,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 4193,
+    "timeDay": 5343,
+    "timeWeek": 3957,
+    "timeMonth": 4193,
+    "timeYear": 4193,
     "dailyMinutesDown": {
       "2023-01-14": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 939,
+    "time": 942,
     "timeDay": 1116,
-    "timeWeek": 933,
-    "timeMonth": 939,
-    "timeYear": 939,
+    "timeWeek": 968,
+    "timeMonth": 942,
+    "timeYear": 942,
     "dailyMinutesDown": {}
   }
 ]
