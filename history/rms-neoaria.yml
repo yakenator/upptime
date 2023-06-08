@@ -1,7 +1,7 @@
 url: https://rms.neoaria.io/conlab
-status: up
-code: 200
-responseTime: 1252
-lastUpdated: 2023-06-07T23:10:35.200Z
+status: down
+code: 502
+responseTime: 796
+lastUpdated: 2023-06-08T09:12:57.372Z
 startTime: Wed Jan 04 2023 10:48:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
