@@ -4,7 +4,7 @@
     "url": "https://conlab.visitkorea.or.kr/conlab",
     "icon": "https://icons.duckduckgo.com/ip3/conlab.visitkorea.or.kr.ico",
     "slug": "rms-visitkorea",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2576,
     "timeYear": 3212,
     "dailyMinutesDown": {
+      "2023-07-31": 0,
       "2023-06-02": 91,
       "2023-04-27": 21,
       "2023-04-24": 50,
