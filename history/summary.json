@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/conlab.visitkorea.or.kr.ico",
     "slug": "rms-visitkorea",
     "status": "up",
-    "uptime": "84.46%",
+    "uptime": "84.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "94.13%",
-    "time": 2278,
-    "timeDay": 2401,
-    "timeWeek": 2463,
-    "timeMonth": 2217,
-    "timeYear": 2290,
+    "uptimeYear": "94.40%",
+    "time": 2280,
+    "timeDay": 1989,
+    "timeWeek": 2395,
+    "timeMonth": 2201,
+    "timeYear": 2293,
     "dailyMinutesDown": {
       "2025-02-04": 80,
       "2024-09-24": 33,
@@ -37,8 +37,7 @@
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
-      "2024-02-16": 1440,
-      "2024-02-15": 1440
+      "2024-02-16": 1440
     }
   },
   {
@@ -47,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rms.neoaria.io.ico",
     "slug": "rms-neoaria",
     "status": "down",
-    "uptime": "48.32%",
+    "uptime": "48.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 2652,
-    "timeDay": 3816,
-    "timeWeek": 3949,
-    "timeMonth": 2650,
-    "timeYear": 3449,
+    "time": 2650,
+    "timeDay": 936,
+    "timeWeek": 3439,
+    "timeMonth": 2547,
+    "timeYear": 3435,
     "dailyMinutesDown": {
-      "2025-02-13": 9,
+      "2025-02-14": 9,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -421,8 +421,7 @@
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
-      "2024-02-16": 1440,
-      "2024-02-15": 1440
+      "2024-02-16": 1440
     }
   }
 ]
